@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="problema1" targetName="problema1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="842e5dcf-77b4-43f4-9b9b-d99b8563c829" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../PracticaParaParcial1/.idea/PracticaParaParcial1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vector/.idea/Vector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo/.idea/algo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../corto1/.idea/corto1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../corto1p2/.idea/corto1p2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ejercicio01/.idea/ejercicio01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../funciones/.idea/funciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../histogramaVector/.idea/histogramaVector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../holamundo/.idea/holamundo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../matriz1/.idea/matriz1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metodoBurbuja/.idea/metodoBurbuja.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../num_perfectos/.idea/num_perfectos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../numeros_oblongos/.idea/numeros_oblongos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../otra prueba/.idea/otra prueba.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parcial1Problema2/.idea/parcial1Problema2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../perfectos hasta n/.idea/perfectos hasta n.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pilas1/.idea/pilas1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pilasAgregarElementosIndefinidamente/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pilasAgregarElementosIndefinidamente/.idea/pilasAgregarElementosIndefinidamente.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pilasInvertirNumeros/.idea/pilasInvertirNumeros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../primerParcial/.idea/primerParcial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../primos_gemelos/.idea/primos_gemelos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../problema1Guia2/.idea/problema1Guia2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../problema2Guia2/.idea/problema2Guia2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../problema3Guia2/.idea/problema3Guia2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../problema4Guia2/.idea/problema4Guia2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pruebPilas/.idea/pruebPilas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prueba2/.idea/prueba2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../punterosComparar2numeros/.idea/punterosComparar2numeros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../punterosEstructuraCiclista/.idea/punterosEstructuraCiclista.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../punterosEstructuras/.idea/punterosEstructuras.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../punterosVectorDinamico/.idea/punterosVectorDinamico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../punterosVectores/.idea/punterosVectores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursividadFactorial/.idea/recursividadFactorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursividadFibonacci/.idea/recursividadFibonacci.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursividadImprimirRango/.idea/recursividadImprimirRango.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursividadPotencia/.idea/recursividadPotencia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursividadSumaNNumeros/.idea/recursividadSumaNNumeros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../triangulo asteriscos/.idea/triangulo asteriscos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled1/.idea/untitled1.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1TIMp51tll3tWsx6eyN2rxNIEKh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../recursividadPotencia" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="problema1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problema1" TARGET_NAME="problema1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="problema1" RUN_TARGET_NAME="problema1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="842e5dcf-77b4-43f4-9b9b-d99b8563c829" name="Default Changelist" comment="" />
+      <created>1573143335173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573143335173</updated>
+      <workItem from="1573143336565" duration="1742000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
